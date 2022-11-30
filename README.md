@@ -123,9 +123,9 @@ You can deploy this project using:
 
 👤 **Abeera Tahir**
 
-- GitHub: [@githubhandle](https://github.com/AbeeraTahir)
-- Twitter: [@twitterhandle]( https://twitter.com/AbeeraTahir8?t=z5CjMpmHMZmS98i09gUpYA&s=08)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abeera-tahir-961893176)
+- GitHub: [@AbeeraTahir](https://github.com/AbeeraTahir)
+- Twitter: [@AbeeraTahir8]( https://twitter.com/AbeeraTahir8?t=z5CjMpmHMZmS98i09gUpYA&s=08)
+- LinkedIn: [Abeera Tahir](https://www.linkedin.com/in/abeera-tahir-961893176)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,9 +133,7 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- **Add scientific calculator**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
