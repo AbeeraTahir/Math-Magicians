@@ -17,16 +17,21 @@ const Calculator = () => {
   const buttonNames = ['AC', '+/-', '%', '÷', 7, 8, 9, 'x', 4, 5, 6, '-', 1, 2, 3, '+', 0, '.', '='];
   return (
     <section className="calculator_container">
+      <h2>Let&apos;s do some math!</h2>
       <div className="container">
-        <div className="display">
-          {total}
-          {operation}
-          {next}
-        </div>
-        <div className="buttons">
-          {buttonNames.map((btn) => (
-            <button type="button" className="btn_numbers" onClick={handleClick} key={btn}>{btn}</button>
-          ))}
+        <div className="calculator">
+          <div className="display">
+            <p>
+              {total}
+              {operation}
+              {next}
+            </p>
+          </div>
+          <div className="buttons">
+            {buttonNames.map((btn) => (
+              <button type="button" className="btn_numbers" onClick={handleClick} key={btn}>{btn}</button>
+            ))}
+          </div>
         </div>
       </div>
     </section>

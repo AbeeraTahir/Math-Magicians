@@ -1,22 +1,30 @@
-.container {
-  width: 25%;
+.calculator_container {
+  margin: 20px 40px 0 30px;
+  display: flex;
+  justify-content: space-between;
 }
 
-.calculator_container {
+.calculator_container h2 {
+  font-size: 2.2rem;
+}
+
+.container {
+  width: 40%;
+}
+
+.calculator {
+  height: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  width: 100%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .display {
   width: 100%;
+  height: 50px;
   background: #80808c;
   color: white;
-  padding: 16px 5px;
+  padding: 20px 10px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -34,10 +42,11 @@
 
 .btn_numbers {
   width: 25%;
+  height: 25%;
   padding: 16px 0;
   background-color: #e6e6e6de;
   border: 0.1px solid lightgray;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .btn_numbers:nth-child(17) {

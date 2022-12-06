@@ -2,7 +2,7 @@ import React from 'react';
 import '../css/Home.css';
 
 const Home = () => (
-  <div className="home">
+  <section className="home">
     <h2>Welcome to our page!</h2>
     <p>
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam voluptatibus
@@ -22,7 +22,7 @@ const Home = () => (
       consequuntur iure impedit corporis, debitis, dolorum laborum nam ipsum voluptates ducimus
       quisquam sapiente velit quas mollitia.
     </p>
-  </div>
+  </section>
 );
 
 export default Home;
