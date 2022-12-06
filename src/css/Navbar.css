@@ -1,0 +1,23 @@
+nav {
+  padding: 10px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav h1 {
+  font-size: 2.4rem;
+}
+
+nav ul {
+  padding: 0 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+nav ul li {
+  font-size: 1.2rem;
+}

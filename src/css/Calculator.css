@@ -28,8 +28,8 @@
 
 .buttons {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .btn_numbers {
@@ -40,10 +40,14 @@
   font-size: 0.8rem;
 }
 
-.btn_operation {
-  background-color: #ff7600d4;
+.btn_numbers:nth-child(17) {
+  width: 50%;
 }
 
-.btn_zero {
-  width: 50%;
+.btn_numbers:nth-child(4),
+.btn_numbers:nth-child(8),
+.btn_numbers:nth-child(12),
+.btn_numbers:nth-child(16),
+.btn_numbers:nth-child(19) {
+  background-color: #ff7600d4;
 }
