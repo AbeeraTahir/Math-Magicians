@@ -1,0 +1,24 @@
+nav {
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e6e6e6de;
+}
+
+nav h1 {
+  font-size: 2.8rem;
+}
+
+nav ul {
+  padding: 0 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+nav ul li {
+  font-size: 1.2rem;
+}
