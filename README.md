@@ -118,6 +118,12 @@ You can deploy this project using:
 - Twitter: [@AbeeraTahir8]( https://twitter.com/AbeeraTahir8?t=z5CjMpmHMZmS98i09gUpYA&s=08)
 - LinkedIn: [Abeera Tahir](https://www.linkedin.com/in/abeera-tahir-961893176)
 
+👤 **Amanuel Galema**
+
+- GitHub: [@amexabee](https://github.com/amexabee)
+- Twitter: [@i_amanuel]( https://twitter.com/i_amanuel)
+- LinkedIn: [Amanuel Galema](https://www.linkedin.com/in/amanuel-galema)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
