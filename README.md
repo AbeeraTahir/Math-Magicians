@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -60,6 +61,12 @@
 - **Single Page Application**
 - **Make simple calculations**
 - **Displays a math_related quote**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://stately-mochi-0d3ec2.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
