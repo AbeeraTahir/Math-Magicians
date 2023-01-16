@@ -129,7 +129,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Add scientific calculator**
+- **Scientific calculation feature can be added**
 - **Neumorphism style on calculator can be added**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
