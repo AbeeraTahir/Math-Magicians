@@ -24,20 +24,18 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Math-Magicians <a name="about-project"></a>
 
-**Math-Magicians** is a Single Page Application (SPA) that allows users to make simple calculations and read a math-related quote.
+**Math-Magicians** is a Single Page Application (SPA), built with React, that allows users to make simple calculations and read a math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -111,10 +109,6 @@ To run tests, run the following command:
 
 `npm test`
 
-### Deployment
-
-You can deploy this project using:
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -135,9 +129,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- **Add scientific calculator**
+- **Scientific calculation feature can be added**
+- **Neumorphism style on calculator can be added**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,21 +150,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
