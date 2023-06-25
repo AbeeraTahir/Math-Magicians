@@ -1,7 +1,7 @@
 .calculator_container {
-  margin: 50px 40px 0 30px;
+  margin-top: 50px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .calculator_container h2 {
