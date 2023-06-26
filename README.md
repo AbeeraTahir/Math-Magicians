@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -64,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://math-magicians-ovag.onrender.com/)
+- [Live Demo Link](https://stately-mochi-0d3ec2.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
